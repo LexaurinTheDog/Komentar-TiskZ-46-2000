@@ -216,6 +216,11 @@ Vydavatel je vždy primárním adresátem nároků z obsahu titulu podle tiskov�
 
 **Vymahatelnost.** Na § 4a navazuje institut *doplňující informace* (§ 11a, § 15a): neuveřejní-li vydavatel sdělení do 3 měsíců od doručení (resp. v nejbližším následujícím vydání, nevychází-li tisk v této lhůtě), nebo neposkytne-li přiměřený prostor, může dotčený člen zastupitelstva písemně požadovat uveřejnění doplňující informace, a to do 3 měsíců od příslušné rozhodné skutečnosti; jinak právo zaniká. Pro uveřejnění a soudní uplatnění se obdobně použijí § 13 až 15 s výjimkami podle § 15a odst. 3 (podrobněji kapitola [02-odpoved-dodatecne-zdroj.md](02-odpoved-dodatecne-zdroj.md)).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 675/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/86D1062618CE4848C1258509001B865D?openDocument) — 13. 11. 2019, kat. A
+  > „Objektivita a vyváženost obsahu regionálního periodika by měla být dosažena uveřejňováním sdělení a příspěvků celého názorového i tematického spektra se vztahem k danému regionu. Ustanovení § 4a zákona č. 46/2000 Sb. (tiskového zákona), ve znění účinném od 1. 11. 2013, kromě těchto požadavků na obsahovou kvalitu celého periodika ukládá vydavateli povinnost poskytnout přiměřený prostor pro uveřejnění sdělení, která vyjadřují názory členů zastupitelstva územního samosprávného celku, týkající se tohoto regionu, aniž by byl vydavatel oprávněn přezkoumávat a pro účely uveřejnění hodnotit obsah jednotlivých sdělení zastupitelů z pohledu objektivity a vnitřní vyváženosti. Při nesplnění této povinnosti se lze nápravy domáhat požadavkem na uveřejnění tzv. doplňující informace podle § 11a odst. 1 písm. a) tohoto zákona"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Obec vydává měsíční zpravodaj. Opoziční zastupitelka doručí vydavateli (obci) text v rozsahu půl strany kritizující plánovaný prodej obecního pozemku. Redakční rada text odmítne s odůvodněním, že „zpravodaj není místem pro politické spory", a v tomtéž čísle otiskne dvoustránkový rozhovor se starostou o výhodnosti prodeje.

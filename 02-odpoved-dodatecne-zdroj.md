@@ -20,6 +20,11 @@ Druhým blokem je **ochrana zdroje a obsahu informací** (§ 16): každý, kdo s
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 1919/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D4F916A25D25F3ADC1258CC3004D35C7?openDocument) — 18. 6. 2025, kat. A
+  > „Po zániku právnické osoby s právním nástupcem vstupuje právní nástupce též do práva zaniklé právnické osoby na odpověď podle § 10 odst. 1 zákona č. 46/2000 Sb., tiskového zákona, které vzniklo jeho právnímu předchůdci"
+
 #### Povaha a účel práva na odpověď
 
 § 10 zakládá subjektivní soukromé právo dotčené osoby vůči **vydavateli** (§ 3 písm. b)) a jemu odpovídající povinnost vydavatele odpověď uveřejnit. Účelem není zjišťovat, kdo má pravdu, ale zajistit **rovnost zbraní ve veřejném prostoru**: dotčená osoba dostane možnost předložit čtenářům téhož periodika vlastní skutkovou verzi. Právo nezávisí na zavinění vydavatele ani autora, na protiprávnosti zásahu, ani na tom, zda je napadené tvrzení nepravdivé — zákon nepožaduje prokázání nepravdivosti, nýbrž jen to, že tvrzení se osoby „dotýká“. Tím se odpověď liší od institutu opravy podle dřívější úpravy, na niž ještě pamatují přechodná ustanovení (§ 18 odst. 4 a 5). Odpovědnost vydavatele za obsah periodického tisku (§ 4) je zde promítnuta do jednoznačně určeného povinného subjektu.
@@ -168,6 +173,11 @@ Dodatečné sdělení umožňuje osobě ztotožnitelné ze zprávy o neskončen�
 > (2) Člen zastupitelstva územního samosprávného celku, na jehož žádost byla vydavatelem uveřejněna doplňující informace podle tohoto zákona, nemůže požadovat uveřejnění další doplňující informace k této doplňující informaci.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 675/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/86D1062618CE4848C1258509001B865D?openDocument) — 13. 11. 2019, kat. A
+  > „Objektivita a vyváženost obsahu regionálního periodika by měla být dosažena uveřejňováním sdělení a příspěvků celého názorového i tematického spektra se vztahem k danému regionu. Ustanovení § 4a zákona č. 46/2000 Sb. (tiskového zákona), ve znění účinném od 1. 11. 2013, kromě těchto požadavků na obsahovou kvalitu celého periodika ukládá vydavateli povinnost poskytnout přiměřený prostor pro uveřejnění sdělení, která vyjadřují názory členů zastupitelstva územního samosprávného celku, týkající se tohoto regionu, aniž by byl vydavatel oprávněn přezkoumávat a pro účely uveřejnění hodnotit obsah jednotlivých sdělení zastupitelů z pohledu objektivity a vnitřní vyváženosti. Při nesplnění této povinnosti se lze nápravy domáhat požadavkem na uveřejnění tzv. doplňující informace podle § 11a odst. 1 písm. a) tohoto zákona"
 
 #### Účel a návaznost na § 4a
 
