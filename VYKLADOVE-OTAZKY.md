@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 46/2000 Sb. (tiskový zákon). Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři zatím nejsou; složka `judikatura/` se doplní strojově později. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 46/2000 Sb. (tiskový zákon). Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva v repozitáři není; složka [judikatura/](judikatura/README.md) obsahuje dvě karty rozhodnutí Nejvyššího soudu (NS 25 Cdo 675/2019 u § 4a a § 11a, NS 25 Cdo 1919/2024 u § 10), u ostatních ustanovení místní judikatura chybí. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -106,10 +106,11 @@ Následky jsou rozděleny do tří systémů: přestupky ([§ 17](03-prestupky-z
 - „Porušení § 4a ani povinností k uveřejnění odpovědi či dodatečného sdělení přestupkem není — jejich ochrana je soukromoprávní a soudní.“
 - „Odpověď a žaloba na ochranu osobnosti se nevylučují: lze je uplatnit souběžně i postupně“.
 - Mezery: § 6 nemá přestupek ani výslovný procesní prostředek; objektivita radničního tisku nemá samostatnou sankci a vynucuje se jen nepřímo doplňující informací (§ 11a).
+- K povinnosti podle § 4a podle místní karty [NS 25 Cdo 675/2019](judikatura/NS-25-Cdo-675-2019.md): „Při nesplnění povinnosti se lze podle karty nápravy domáhat požadavkem na uveřejnění doplňující informace podle § 11a odst. 1 písm. a).“
 
 **Jak ji řešit.** Spojte porušenou primární normu se sekundárním následkem, aktivně legitimovanou osobou, příslušným orgánem, lhůtou a výsledkem nápravy. Oddělte zánik práva prekluzí, soudní uložení povinnosti, správní pokutu, občanskoprávní odpovědnost a osobní trestní odpovědnost; jejich souběh nebo vzájemné vyloučení musí mít oporu v místním textu. Sankci nedovozujte analogií tam, kde ji zákon nestanoví.
 
-**Místní opora.** [§ 4](01-pojmy-odpovednost-evidence.md); [§ 6](01-pojmy-odpovednost-evidence.md); [§ 11a](02-odpoved-dodatecne-zdroj.md); [§ 14](02-odpoved-dodatecne-zdroj.md); [§ 17](03-prestupky-zaverecna-novely.md); [Právní následky, odpovědnost, sankce a ochrana](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md)
+**Místní opora.** [§ 4](01-pojmy-odpovednost-evidence.md); [§ 6](01-pojmy-odpovednost-evidence.md); [§ 11a](02-odpoved-dodatecne-zdroj.md); [§ 14](02-odpoved-dodatecne-zdroj.md); [§ 17](03-prestupky-zaverecna-novely.md); [Právní následky, odpovědnost, sankce a ochrana](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); [NS 25 Cdo 675/2019](judikatura/NS-25-Cdo-675-2019.md)
 
 ## 8. Které zásady omezují doslovný výklad a jak se střetávají?
 
@@ -124,20 +125,23 @@ Místní dokument zásad výslovně pojmenovává:
 - Restriktivní výklad omezení svobody projevu a výjimek z povinností
 - Rychlost a právní jistota — prekluzivní lhůty
 Typické střety: redakční autonomie vs. povinnost poskytnout prostor zastupitelům (§ 4a, § 11a); ochrana zdroje vs. trestněprávní povinnosti (§ 16 odst. 3); svoboda projevu vs. povinnost uveřejnit oznámení orgánu (§ 6), kterou komentář čte úzce: „jako omezení svobody projevu (čl. 17 odst. 4 Listiny) je třeba ji vykládat restriktivně.“
+K prvnímu střetu se vyjadřuje místní karta [NS 25 Cdo 675/2019](judikatura/NS-25-Cdo-675-2019.md); komentář k § 4a z ní dovozuje, že „vydavatel podle právní věty není oprávněn přezkoumávat a pro účely uveřejnění hodnotit obsah jednotlivých sdělení zastupitelů z pohledu objektivity a vnitřní vyváženosti.“
 
-**Jak ji řešit.** U každé zásady určete textovou oporu, funkci, typické použití a hranici. Při střetu nepoužívejte zásadu jako slogan: popište dotčené hodnoty (čl. 17 vs. čl. 10 Listiny), intenzitu zásahu, možné šetrnější řešení a důvod priority v konkrétním skutkovém a procesním kontextu. Zásady v ZASADY.md nejsou judikatorními tezemi; jsou dovozeny z textu a kapitol.
+**Jak ji řešit.** U každé zásady určete textovou oporu, funkci, typické použití a hranici. Při střetu nepoužívejte zásadu jako slogan: popište dotčené hodnoty (čl. 17 vs. čl. 10 Listiny), intenzitu zásahu, možné šetrnější řešení a důvod priority v konkrétním skutkovém a procesním kontextu. Zásady v ZASADY.md nejsou judikatorními tezemi; jsou dovozeny z textu a kapitol. Místní karty jsou u zásad 3 (nositel práva na odpověď) a 5 (povinnosti periodika územního samosprávného celku) uvedeny jen jako doplňující opora v rozsahu své právní věty.
 
 **Místní opora.** [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md); [§ 4a](01-pojmy-odpovednost-evidence.md); [§ 6](01-pojmy-odpovednost-evidence.md); [§ 16](02-odpoved-dodatecne-zdroj.md)
 
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím nemá složku `judikatura/`; obsahuje **0** karet rozhodnutí a soubor zásad odkazuje na **0** místních karet s použitelnou citací. Úvod to uvádí výslovně: „Komentář neuvádí žádné spisové značky soudních rozhodnutí, protože k nim v lokálních materiálech tohoto repozitáře nebyla k dispozici ověřená judikaturní karta“.
-Místní korpus proto neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se nesmí domýšlet. Jde o mezeru, kterou má zaplnit pozdější strojové doplnění složky `judikatura/`.
+Složka [judikatura/](judikatura/README.md) obsahuje **2** karty rozhodnutí Nejvyššího soudu (obě kat. A, s právní větou), citované u **3 z 28** paragrafových jednotek; soubor zásad na ně odkazuje u zásad 3 a 5. Úvod v metodické poznámce uvádí: „Komentář neuvádí žádné spisové značky soudních rozhodnutí, protože k nim v lokálních materiálech tohoto repozitáře nebyla k dispozici ověřená judikaturní karta“, a hned za tím doplňuje výjimku pro tyto dvě dodatečně doplněné karty.
+- [NS 25 Cdo 1919/2024](judikatura/NS-25-Cdo-1919-2024.md) (18. 6. 2025), § 10 — odpovídá na otázku nositele práva na odpověď po zániku právnické osoby: „Podle právní věty karty po zániku právnické osoby s právním nástupcem vstupuje právní nástupce též do práva na odpověď podle odst. 1, které vzniklo jeho právnímu předchůdci.“ Neodpovídá na běh lhůty ani na zánik bez nástupce: „K běhu lhůty podle § 12 se právní věta nevyjadřuje a na zánik právnické osoby bez právního nástupce nedopadá.“ Netýká se ani okruhu oprávněných po smrti fyzické osoby (§ 10 odst. 4).
+- [NS 25 Cdo 675/2019](judikatura/NS-25-Cdo-675-2019.md) (13. 11. 2019), § 4a a § 11a — odpovídá na otázku, zda smí vydavatel periodika územního samosprávného celku sdělení zastupitele odmítnout pro jeho jednostrannost: „Odmítnutí sdělení zastupitele proto nelze opřít o jeho jednostrannost“; náprava vede přes doplňující informaci podle § 11a odst. 1 písm. a). Neodpovídá na spor u písm. c): „K výkladové otázce u písm. c) (rozsah soudního přezkumu přiměřenosti prostoru) se právní věta nevyjadřuje.“
+U ostatních 25 jednotek místní korpus citovatelnou judikatorní tezi neposkytuje; judikatorní odpověď se tam nesmí domýšlet.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (pozor na zrušený zákon č. 81/1966 Sb. s institutem opravy a na úpravu vysílání) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do té doby ponechte výkladové otázky otevřené.
+**Jak ji řešit.** U obou karet i u každé další doplněné karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady; karty uvádějí jen právní větu, kontext proto ověřte v plném textu rozhodnutí (odkaz na kartě). Ověřte, zda soud vykládal stejné znění (pozor na zrušený zákon č. 81/1966 Sb. s institutem opravy a na úpravu vysílání; právní věta NS 25 Cdo 675/2019 se výslovně vztahuje k § 4a ve znění účinném od 1. 11. 2013) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; výkladové otázky mimo její rozsah ponechte otevřené.
 
-**Místní opora.** [úvodní místní výklad](00-uvod.md); [místní zásady a citace](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
+**Místní opora.** [úvodní místní výklad](00-uvod.md); [místní zásady a citace](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [složka judikatura/](judikatura/README.md); [§ 4a](01-pojmy-odpovednost-evidence.md); [§ 10](02-odpoved-dodatecne-zdroj.md); [§ 11a](02-odpoved-dodatecne-zdroj.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -164,7 +168,7 @@ Místní kapitoly výslovně zachycují například tyto otevřené otázky nebo
 - [§ 16](02-odpoved-dodatecne-zdroj.md) — rozsah prolomení v trestním řízení a ochrana vůči prohlídce a odnětí věci;
 - [§ 17](03-prestupky-zaverecna-novely.md) — den spáchání opomenutím, dvojí přičtení opakování, příslušnost u zahraničního vydavatele.
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a historický argument, praktický následek a důvod, proč jeden převáží; místní judikatorní argument zatím chybí. U sankčních ustanovení respektujte zákaz analogie v neprospěch pachatele. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a historický argument, praktický následek a důvod, proč jeden převáží; místní judikatorní argument chybí — ke sporu u § 11a písm. c) se nevyjadřuje ani karta NS 25 Cdo 675/2019. U sankčních ustanovení respektujte zákaz analogie v neprospěch pachatele. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [kapitola 01](01-pojmy-odpovednost-evidence.md); [kapitola 02](02-odpoved-dodatecne-zdroj.md); [kapitola 03](03-prestupky-zaverecna-novely.md); [místní zásady](ZASADY.md); [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
@@ -181,9 +185,9 @@ Aplikační vrstvu lze ověřit zejména v: [01-pojmy-odpovednost-evidence](01-p
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří úvod, **3** kapitoly a **0** karet rozhodnutí, doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří úvod, **3** kapitoly a **2** karty rozhodnutí (citované u § 4a, § 10 a § 11a), doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi (složka `judikatura/` bude doplněna strojově);
+- místní judikatura chybí u 25 z 28 paragrafových jednotek; karty NS 25 Cdo 675/2019 a NS 25 Cdo 1919/2024 pokrývají jen § 4a, § 10 a § 11a v rozsahu svých právních vět;
 - místní důvodová zpráva chybí;
 - datum vyhlášení zákona a znění položky 65 sazebníku k zákonu č. 368/1992 Sb. nejsou v místních zdrojích ověřeny;
 - odvolací orgán v přestupkových věcech a příslušný orgán hlavního města Prahy zákon výslovně neurčuje;

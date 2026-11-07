@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona a výklad citované v kapitolách [01-pojmy-odpovednost-evidence.md](01-pojmy-odpovednost-evidence.md), [02-odpoved-dodatecne-zdroj.md](02-odpoved-dodatecne-zdroj.md) a [03-prestupky-zaverecna-novely.md](03-prestupky-zaverecna-novely.md). Repozitář **neobsahuje místní judikaturní karty** k tiskovému zákonu a komentář neuvádí žádné spisové značky; zásady níže jsou proto dovozeny z textu zákona, jeho systematiky, ústavního rámce čl. 17 Listiny, na který kapitoly výslovně odkazují, a z výkladu v kapitolách — nikoli z judikatorních tezí. Každá zásada je doložena doslovnou citací „…“ z kapitol s odkazem na soubor a paragraf; tam, kde by u zavedené praxe stála judikatorní citace, je namístě poctivě uvést, že místní opora chybí.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona a výklad citované v kapitolách [01-pojmy-odpovednost-evidence.md](01-pojmy-odpovednost-evidence.md), [02-odpoved-dodatecne-zdroj.md](02-odpoved-dodatecne-zdroj.md) a [03-prestupky-zaverecna-novely.md](03-prestupky-zaverecna-novely.md). Repozitář obsahuje jen **dvě místní judikaturní karty** k tiskovému zákonu (složka [judikatura/](judikatura/README.md)): [NS 25 Cdo 675/2019](judikatura/NS-25-Cdo-675-2019.md) (citováno u § 4a a § 11a) a [NS 25 Cdo 1919/2024](judikatura/NS-25-Cdo-1919-2024.md) (citováno u § 10); u ostatních ustanovení místní judikatura chybí. Zásady níže jsou proto dovozeny z textu zákona, jeho systematiky, ústavního rámce čl. 17 Listiny, na který kapitoly výslovně odkazují, a z výkladu v kapitolách — nikoli z judikatorních tezí; u zásad 3 a 5 jsou karty uvedeny jen jako doplňující opora v rozsahu své právní věty. Každá zásada je doložena doslovnou citací „…“ z kapitol s odkazem na soubor a paragraf; tam, kde by u zavedené praxe stála judikatorní citace, je namístě poctivě uvést, že místní opora chybí.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -83,6 +83,12 @@ Zásada má současně své meze, které chrání vydavatele i čtenáře před 
 
 Komentář tento zákaz řetězení vysvětluje stručně: „Pravidlo brání nekonečné výměně replik. Nevylučuje však odpověď na nové skutkové tvrzení, které redakce k odpovědi připojí“ (§ 10). Odpověď přitom nevylučuje souběžnou ochranu osobnosti podle občanského zákoníku (§ 10 odst. 5).
 
+K otázce, **kdo je nositelem práva na odpověď**, je k dispozici místní karta [NS 25 Cdo 1919/2024](judikatura/NS-25-Cdo-1919-2024.md) (18. 6. 2025, kat. A), citovaná u § 10. Komentář z její právní věty přebírá:
+
+> „Podle právní věty karty po zániku právnické osoby s právním nástupcem vstupuje právní nástupce též do práva na odpověď podle odst. 1, které vzniklo jeho právnímu předchůdci.“ — [02-odpoved-dodatecne-zdroj.md](02-odpoved-dodatecne-zdroj.md), § 10
+
+Dosah karty je úzký: „K běhu lhůty podle § 12 se právní věta nevyjadřuje a na zánik právnické osoby bez právního nástupce nedopadá.“ (§ 10). Na okruh oprávněných po smrti fyzické osoby (§ 10 odst. 4) se karta nevztahuje.
+
 ## 4. Ochrana presumpce neviny — dodatečné sdělení
 
 **Zakotvení:** § 11, § 12 odst. 4, § 15 odst. 3
@@ -116,6 +122,14 @@ Vymahatelnost zásady zajišťuje doplňující informace, kterou komentář k �
 > „Institut chrání pluralitu názorů v periodikách financovaných či ovládaných obcí, krajem nebo hlavním městem Prahou a jeho městskými částmi, které mají vůči opozičním zastupitelům silné postavení“ — [02-odpoved-dodatecne-zdroj.md](02-odpoved-dodatecne-zdroj.md), § 11a
 
 Praktickým důsledkem je, že porušení § 4a není přestupkem (§ 17 na něj nepamatuje), ale dotčený člen zastupitelstva se může domáhat uveřejnění doplňující informace a v krajním případě i soudní ochrany (§ 15a odst. 3 ve spojení s § 14). Čtenáře upozorňuje na zvláštní režim titulu povinný údaj „periodický tisk územního samosprávného celku" (§ 8 odst. 1 písm. b)).
+
+Zásadu zpřesňuje místní karta [NS 25 Cdo 675/2019](judikatura/NS-25-Cdo-675-2019.md) (13. 11. 2019, kat. A), citovaná u § 4a a § 11a. Komentář k § 4a z její právní věty dovozuje:
+
+> „Karta zpřesňuje výklad obou povinností: objektivity a vyváženosti regionálního periodika má být dosaženo uveřejňováním sdělení a příspěvků celého názorového i tematického spektra se vztahem k danému regionu, a vydavatel podle právní věty není oprávněn přezkoumávat a pro účely uveřejnění hodnotit obsah jednotlivých sdělení zastupitelů z pohledu objektivity a vnitřní vyváženosti.“ — [01-pojmy-odpovednost-evidence.md](01-pojmy-odpovednost-evidence.md), § 4a
+
+> „Při nesplnění povinnosti se lze podle karty nápravy domáhat požadavkem na uveřejnění doplňující informace podle § 11a odst. 1 písm. a).“ — [01-pojmy-odpovednost-evidence.md](01-pojmy-odpovednost-evidence.md), § 4a
+
+Otázku rozsahu soudního přezkumu přiměřenosti prostoru karta neřeší: „K výkladové otázce u písm. c) (rozsah soudního přezkumu přiměřenosti prostoru) se právní věta nevyjadřuje.“ (§ 11a).
 
 ## 6. Ochrana novinářského zdroje a redakčního tajemství
 

@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **úvod a 3 kapitoly**, **28 samostatně nadepsaných paragrafových jednotek** (§ 1 až § 24 včetně vložených § 4a, § 11a, § 15a a § 18a), **46 modalitních příkladů**, **8 pojmenovaných zásad** a **0 místních karet rozhodnutí**. Složka `judikatura/` dosud neexistuje a doplní se strojově později; do té doby je judikatorní vrstva vědomou mezerou, nikoli tichým předpokladem.
+Místní korpus pro tuto mapu tvoří **úvod a 3 kapitoly**, **28 samostatně nadepsaných paragrafových jednotek** (§ 1 až § 24 včetně vložených § 4a, § 11a, § 15a a § 18a), **46 modalitních příkladů**, **8 pojmenovaných zásad** a **2 místní karty rozhodnutí** ve složce [judikatura/](judikatura/README.md): [NS 25 Cdo 675/2019](judikatura/NS-25-Cdo-675-2019.md) u § 4a a § 11a a [NS 25 Cdo 1919/2024](judikatura/NS-25-Cdo-1919-2024.md) u § 10. U zbývajících 25 paragrafových jednotek místní judikatura chybí; judikatorní vrstva je tam vědomou mezerou, nikoli tichým předpokladem.
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -248,6 +248,7 @@ Mezery v sankční ochraně:
 - [§ 6](01-pojmy-odpovednost-evidence.md): „Za nesplnění povinnosti zákon nestanoví přestupek (§ 17 na § 6 nepamatuje); vynutitelnost podle tiskového zákona je proto omezená“
 - [§ 4a](01-pojmy-odpovednost-evidence.md): „povinnost objektivity a vyváženosti nemá samostatný sankční ani procesní prostředek a přestupek pro § 4a zákon nestanoví.“
 - [§ 11a](02-odpoved-dodatecne-zdroj.md): „Bez § 11a by porušení § 4a nemělo účinnou sankci — § 17 je mezi přestupky nezařazuje.“
+- [§ 4a](01-pojmy-odpovednost-evidence.md), místní karta [NS 25 Cdo 675/2019](judikatura/NS-25-Cdo-675-2019.md): „Při nesplnění povinnosti se lze podle karty nápravy domáhat požadavkem na uveřejnění doplňující informace podle § 11a odst. 1 písm. a).“
 
 **Syntéza.** Zákon odděluje tři systémy následků: (i) přestupky jen za administrativní povinnosti § 7 až 9, (ii) soudní vynucení soukromoprávních nároků podle § 14 a (iii) obecnou odpovědnost podle občanského, trestního a reklamního práva, na kterou § 4 a § 5 pouze odkazují. Kde zákon neposkytuje ani přestupek, ani soudní nárok (objektivita radničního tisku, § 6), nelze sankci dovozovat analogií.
 
@@ -262,24 +263,28 @@ Mezery v sankční ochraně:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím **neobsahuje složku `judikatura/` ani žádnou místní kartu rozhodnutí**; složka se doplní strojově později. Soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 spisových značek**. Úvod tuto mezeru přiznává výslovně:
+Repozitář obsahuje složku [judikatura/](judikatura/README.md) se **2 místními kartami rozhodnutí** Nejvyššího soudu (obě kat. A, s právní větou); kapitoly je citují u **3 z 28** paragrafových jednotek (§ 4a, § 10, § 11a) a soubor zásad na ně odkazuje u zásad 3 a 5. U ostatních 25 jednotek místní judikatura chybí. Úvod v metodické poznámce původní mezeru uvádí a hned za ní doplňuje výjimku pro obě dodatečně doplněné karty:
 - [Úvod](00-uvod.md): „Komentář neuvádí žádné spisové značky soudních rozhodnutí, protože k nim v lokálních materiálech tohoto repozitáře nebyla k dispozici ověřená judikaturní karta“
 
-Místo judikatorních tezí komentář označuje sporné body jako výkladové otázky (v kapitolách 01 až 03 jde o desítky výskytů tohoto označení). Judikatorní závěr se proto nesmí domýšlet ani tam, kde by jej praxe obvykle očekávala — například u rozlišení skutkového tvrzení a hodnotícího úsudku (§ 10), u přezkumu přiměřenosti prostoru (§ 11a odst. 1 písm. c)) nebo u rozsahu ochrany zdroje vůči prohlídce (§ 16).
+Nosná teze karet v rozsahu jejich právní věty a hranice použitelnosti:
+- [NS 25 Cdo 1919/2024](judikatura/NS-25-Cdo-1919-2024.md) (18. 6. 2025) — [§ 10](02-odpoved-dodatecne-zdroj.md): „Podle právní věty karty po zániku právnické osoby s právním nástupcem vstupuje právní nástupce též do práva na odpověď podle odst. 1, které vzniklo jeho právnímu předchůdci.“ Hranice: „K běhu lhůty podle § 12 se právní věta nevyjadřuje a na zánik právnické osoby bez právního nástupce nedopadá.“
+- [NS 25 Cdo 675/2019](judikatura/NS-25-Cdo-675-2019.md) (13. 11. 2019) — [§ 4a](01-pojmy-odpovednost-evidence.md): „vydavatel podle právní věty není oprávněn přezkoumávat a pro účely uveřejnění hodnotit obsah jednotlivých sdělení zastupitelů z pohledu objektivity a vnitřní vyváženosti.“ — [§ 11a](02-odpoved-dodatecne-zdroj.md): „Podle právní věty karty se lze při nesplnění povinnosti podle § 4a domáhat nápravy požadavkem na uveřejnění doplňující informace podle odst. 1 písm. a)“. Hranice: „K výkladové otázce u písm. c) (rozsah soudního přezkumu přiměřenosti prostoru) se právní věta nevyjadřuje.“ Právní věta se výslovně vztahuje k § 4a ve znění účinném od 1. 11. 2013.
+
+Mimo rozsah obou právních vět komentář označuje sporné body jako výkladové otázky (v kapitolách 01 až 03 jde o desítky výskytů tohoto označení). Judikatorní závěr se proto nesmí domýšlet ani tam, kde by jej praxe obvykle očekávala — například u rozlišení skutkového tvrzení a hodnotícího úsudku (§ 10), u práva na odpověď po smrti fyzické osoby (§ 10 odst. 4; karta NS 25 Cdo 1919/2024 se týká jen právnické osoby), u přezkumu přiměřenosti prostoru (§ 11a odst. 1 písm. c)) nebo u rozsahu ochrany zdroje vůči prohlídce (§ 16).
 
 **Hloubkový test.**
-- Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U obou karet i u každé další doplněné karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady; karty uvádějí jen právní větu, skutkový a procesní kontext proto ověřte v plném textu rozhodnutí (odkaz na kartě).
 - Ověřte, zda soud vykládal stejné znění (pozor na zrušený zákon č. 81/1966 Sb. a institut opravy, na § 5a až 5g zákona č. 468/1991 Sb. a na znění § 17 před zákonem č. 183/2017 Sb.).
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech; rozhodnutí o vysílání (zákon č. 231/2001 Sb.) přenášejte na tisk jen s výslovným odůvodněním paralely.
-- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; do té doby ponechte výkladové otázky otevřené.
+- Dvě izolované karty netvoří rozhodovací linii; výkladové otázky mimo rozsah jejich právních vět ponechte otevřené.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvod](00-uvod.md)
+**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvod](00-uvod.md); [složka judikatura/](judikatura/README.md); [NS 25 Cdo 675/2019](judikatura/NS-25-Cdo-675-2019.md); [NS 25 Cdo 1919/2024](judikatura/NS-25-Cdo-1919-2024.md); [§ 4a](01-pojmy-odpovednost-evidence.md); [§ 10](02-odpoved-dodatecne-zdroj.md); [§ 11a](02-odpoved-dodatecne-zdroj.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
 **Zjištění z místního komentáře.**
 Každá z 28 paragrafových jednotek má oddíl G. Protiargumenty a rizika; 11 z nich obsahuje výslovně označené „slabé místo“. Nejvýznamnější otevřené spory:
-- **Přiměřenost prostoru u doplňující informace** — [§ 11a](02-odpoved-dodatecne-zdroj.md): „zda tím zákon zastupiteli dává právo na uveřejnění bez ohledu na objektivní přiměřenost prostoru, nebo zda soud v řízení podle § 14 (ve spojení s § 15a odst. 3) přiměřenost přezkoumá, je výkladovou otázkou.“
+- **Přiměřenost prostoru u doplňující informace** — [§ 11a](02-odpoved-dodatecne-zdroj.md): „zda tím zákon zastupiteli dává právo na uveřejnění bez ohledu na objektivní přiměřenost prostoru, nebo zda soud v řízení podle § 14 (ve spojení s § 15a odst. 3) přiměřenost přezkoumá, je výkladovou otázkou.“ Místní karta NS 25 Cdo 675/2019 tento spor neřeší: „K výkladové otázce u písm. c) (rozsah soudního přezkumu přiměřenosti prostoru) se právní věta nevyjadřuje.“
 - **Rozsah prolomení ochrany zdroje v trestním řízení** — [§ 16](02-odpoved-dodatecne-zdroj.md): „Gramatický výklad vede k závěru, že ochrana zdroje ustupuje v trestním řízení pouze tehdy, jde-li o trestné činy, u nichž platí povinnost překazit nebo oznámit, případně o nadržování“
 - **Převod titulu** — [§ 7](01-pojmy-odpovednost-evidence.md): „lze ji chápat jako změnu evidovaného údaje (písm. e)), nebo jako ukončení vydávání dosavadním vydavatelem a zahájení vydávání novým vydavatelem s 30denní lhůtou podle odst. 2; opatrný postup volí oznámení obou osob v předstihu.“
 - **Den spáchání přestupku opomenutím** — [§ 17](03-prestupky-zaverecna-novely.md): „opomenutí splnit povinnost ve lhůtě lze chápat jako přestupek dokonaný uplynutím lhůty, nebo jako trvající protiprávní stav“
@@ -290,7 +295,7 @@ Každá z 28 paragrafových jednotek má oddíl G. Protiargumenty a rizika; 11 z
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu (např. u § 11a písm. c) i argument textu „bude mít za to“, nejen argument přezkoumatelnosti).
-- U každé varianty uveďte textový, systematický, historický (§ 18, § 19) a účelový argument; místní judikatorní argument zatím chybí.
+- U každé varianty uveďte textový, systematický, historický (§ 18, § 19) a účelový argument; místní judikatorní argument chybí s výjimkou otázek pokrytých právními větami karet NS 25 Cdo 675/2019 (§ 4a, § 11a) a NS 25 Cdo 1919/2024 (§ 10).
 - Porovnejte praktické následky variant (riziko přestupku, zánik práva, zásah do redakčního tajemství) a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu; u sankčních ustanovení respektujte zákaz analogie v neprospěch pachatele.
 
@@ -350,7 +355,7 @@ Aplikační vrstvu lze ověřit zejména v:
 Stav poznání je posuzován nad **úvodem a 3 kapitolami** (28 paragrafových jednotek). Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 
 Předpisové kontrolní mezery zjištěné z místního korpusu:
-- místní judikatura neposkytuje citovatelnou tezi; složka `judikatura/` se doplní strojově později;
+- místní judikatura je k dispozici jen u 3 z 28 paragrafových jednotek (karty NS 25 Cdo 675/2019 u § 4a a § 11a a NS 25 Cdo 1919/2024 u § 10); u ostatních ustanovení citovatelná judikatorní teze v místních zdrojích chybí;
 - místní důvodová zpráva v repozitáři není, historický a účelový argument proto nemá samostatnou místní oporu;
 - datum vyhlášení zákona: „Přesné datum vyhlášení je uvedeno v záhlaví částky Sbírky zákonů; lokální zdroj (konsolidované znění) ho neuvádí.“
 - zrušená položka sazebníku: „znění položky ke dni účinnosti tiskového zákona (výše sazby po novelách) v lokálních zdrojích ověřeno nebylo.“
@@ -372,14 +377,14 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | nenalezeno | ano | mezera | ano | ano | nenalezeno | ano |
-| [01](01-pojmy-odpovednost-evidence.md) | ano | ano | ano | mezera | ano | ano | ano | ano |
-| [02](02-odpoved-dodatecne-zdroj.md) | ano | ano | ano | mezera | ano | ano | ano | ano |
+| [Úvod](00-uvod.md) | ano | nenalezeno | ano | ano (souhrn karet) | ano | ano | nenalezeno | ano |
+| [01](01-pojmy-odpovednost-evidence.md) | ano | ano | ano | ano (1 karta: § 4a) | ano | ano | ano | ano |
+| [02](02-odpoved-dodatecne-zdroj.md) | ano | ano | ano | ano (2 karty: § 10, § 11a) | ano | ano | ano | ano |
 | [03](03-prestupky-zaverecna-novely.md) | ano | ano | ano | mezera | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** 0 karet ve všech kapitolách; po strojovém doplnění složky `judikatura/` ověřit každou výkladovou otázku proti kartám.
+- **Judikatura:** 2 karty — v kapitole 01 NS 25 Cdo 675/2019 u § 4a, v kapitole 02 NS 25 Cdo 1919/2024 u § 10 a NS 25 Cdo 675/2019 u § 11a; kapitola 03 a ostatní ustanovení kapitol 01 a 02 karty nemají. Při každém dalším doplnění složky `judikatura/` ověřit výkladové otázky proti kartám.
 - **Důkazy a aplikace:** úvod neobsahuje kazuistiku ani důkazní vrstvu (odpovídá jeho funkci); u § 1 chybí seznam typicky rozhodných důkazů.
 - **Časová vrstva:** datum vyhlášení a znění před zákonem č. 183/2017 Sb. nejsou v místním korpusu zachyceny.
 
@@ -414,7 +419,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako ustálený závěr, převažující výklad, spornou otázku nebo autorský návrh.
-4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; dokud místní karty chybějí, žádný judikatorní závěr netvrďte.
+4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; tam, kde místní karta chybí, žádný judikatorní závěr netvrďte, a obě existující karty nerozšiřujte nad rámec jejich právních vět.
 5. Neuvádějte pouze výsledek; zpřístupněte argumentační cestu tak, aby ji bylo možné přezkoumat.
 
 ## Kontrola před publikací
@@ -422,7 +427,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 - [ ] Rozhodné znění a přechodná ustanovení jsou označena.
 - [ ] Každý pojem a modalita mají určený právní následek.
 - [ ] Procesní a důkazní rovina navazují na jednotlivé znaky normy.
-- [ ] Judikatura je zasazena do skutkového a procesního kontextu (po doplnění složky `judikatura/`).
+- [ ] Judikatura je zasazena do skutkového a procesního kontextu (u karet NS 25 Cdo 675/2019 a NS 25 Cdo 1919/2024 ověřit v plném textu rozhodnutí; karty uvádějí jen právní větu).
 - [ ] Konkurenční výklad je formulován v nejsilnější obhajitelné podobě.
 - [ ] Modelový případ obsahuje úplnou subsumpci a variantu hraničního případu.
 - [ ] Nejistoty, mezery a aktualizační spouštěče jsou viditelné.

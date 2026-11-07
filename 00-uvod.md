@@ -2,7 +2,7 @@
 
 > **Znění k 1. červenci 2025** (dokument e-Sbírky `SB-2000-00046_2025-07-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Výklad jednotlivých ustanovení vychází z doslovného konsolidovaného znění zákona, z jeho systematiky, z textu souvisejících předpisů dostupných v místním vaultu (zejména zákona č. 89/2012 Sb., občanský zákoník, zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich, a zákona č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání) a z obecných výkladových zásad. Komentář **neuvádí žádné spisové značky soudních rozhodnutí**, protože k nim v lokálních materiálech tohoto repozitáře nebyla k dispozici ověřená judikaturní karta; tam, kde by výklad potřeboval oporu v rozhodovací praxi, je otázka výslovně označena jako výkladová. Odkazy pod čarou ve znění zákona (např. na občanský zákoník z roku 1964, trestní zákon č. 140/1961 Sb. nebo zákon o správě daní a poplatků) jsou historické a komentář u nich vždy uvádí, kde dnes hledat platnou úpravu.
+> **Metodická poznámka:** Výklad jednotlivých ustanovení vychází z doslovného konsolidovaného znění zákona, z jeho systematiky, z textu souvisejících předpisů dostupných v místním vaultu (zejména zákona č. 89/2012 Sb., občanský zákoník, zákona č. 250/2016 Sb., o odpovědnosti za přestupky a řízení o nich, a zákona č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání) a z obecných výkladových zásad. Komentář **neuvádí žádné spisové značky soudních rozhodnutí**, protože k nim v lokálních materiálech tohoto repozitáře nebyla k dispozici ověřená judikaturní karta; tam, kde by výklad potřeboval oporu v rozhodovací praxi, je otázka výslovně označena jako výkladová. **Výjimkou** jsou dvě rozhodnutí Nejvyššího soudu z místních zdrojů, k nimž byly ověřené judikaturní karty doplněny dodatečně do složky [judikatura/](judikatura/README.md): NS 25 Cdo 675/2019 (citováno u § 4a a § 11a) a NS 25 Cdo 1919/2024 (citováno u § 10); u ostatních ustanovení místní judikatura chybí. Odkazy pod čarou ve znění zákona (např. na občanský zákoník z roku 1964, trestní zákon č. 140/1961 Sb. nebo zákon o správě daní a poplatků) jsou historické a komentář u nich vždy uvádí, kde dnes hledat platnou úpravu.
 
 ---
 
@@ -83,7 +83,11 @@ Přestupky podle § 17 může spáchat jen vydavatel a týkají se výlučně ad
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle konsolidovaného znění k 1. 7. 2025, pod ním oddíl `**Výklad:**` (v kapitole 02 dále členěný do tematických pododdílů) a dále oddíly F. Kazuistika, G. Protiargumenty a rizika a H. Praktický závěr s kontrolním checklistem.
-- Komentář **neobsahuje spisové značky soudních rozhodnutí**; sporné body jsou otevřeně označeny jako výkladové otázky. Zastaralé odkazy pod čarou (občanský zákoník z roku 1964, trestní zákon č. 140/1961 Sb., zákon č. 337/1992 Sb.) jsou vždy převedeny na dnes platnou úpravu.
+- Komentář cituje **jen dvě soudní rozhodnutí z místních zdrojů**, obě s právní větou a vlastní kartou ve složce [judikatura/](judikatura/README.md):
+  - **NS 25 Cdo 675/2019** (13. 11. 2019, kat. A) u § 4a a § 11a — vydavatel periodického tisku územního samosprávného celku musí poskytnout přiměřený prostor pro sdělení členů zastupitelstva týkající se regionu a není oprávněn přezkoumávat a pro účely uveřejnění hodnotit obsah jednotlivých sdělení zastupitelů z pohledu objektivity a vnitřní vyváženosti; při nesplnění povinnosti se lze nápravy domáhat požadavkem na uveřejnění doplňující informace podle § 11a odst. 1 písm. a) ([karta](judikatura/NS-25-Cdo-675-2019.md));
+  - **NS 25 Cdo 1919/2024** (18. 6. 2025, kat. A) u § 10 — po zániku právnické osoby s právním nástupcem vstupuje právní nástupce též do práva na odpověď podle § 10 odst. 1, které vzniklo jeho právnímu předchůdci ([karta](judikatura/NS-25-Cdo-1919-2024.md)).
+
+  U ostatních 25 ustanovení místní judikatura chybí; sporné body jsou otevřeně označeny jako výkladové otázky. Zastaralé odkazy pod čarou (občanský zákoník z roku 1964, trestní zákon č. 140/1961 Sb., zákon č. 337/1992 Sb.) jsou vždy převedeny na dnes platnou úpravu.
 - Novelizační části (§ 20 až 23) a citované § 5a až 5g zákona č. 468/1991 Sb. v § 21 se komentují stručně, s důrazem na to, že jsou vyčerpané a kde je dnes platná úprava.
 
 ---
